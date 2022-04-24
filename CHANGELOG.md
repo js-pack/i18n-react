@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/js-pack/i18n-react/compare/v1.0.1...v1.0.2) (2022-04-24)
+
+
+### Bug Fixes
+
+* Add peerDeps as external ([1126e9a](https://github.com/js-pack/i18n-react/commit/1126e9a74090d54c07cebc8d394b31fecddf6dfa))
+
 ## [1.0.1](https://github.com/js-pack/i18n-react/compare/v1.0.0...v1.0.1) (2022-04-24)
 
 
