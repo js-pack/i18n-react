@@ -17,7 +17,9 @@ export default [
       { file: packageJson.main, format: 'cjs' },
       { file: packageJson.module, format: 'esm' },
     ],
-    external: Object.keys(packageJson.dependencies),
+    external: Object.keys(packageJson.dependencies).concat(
+      Object.keys(packageJson.peerDependencies)
+    ),
     plugins: [
       typescript({
         tsconfigOverride: { exclude: ['**/*.test.ts'] },
