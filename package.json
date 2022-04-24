@@ -60,7 +60,9 @@
     "translation"
   ],
   "dependencies": {
-    "@js-pack/i18n": "^1.0.1",
-    "react": "^17.0.2"
+    "@js-pack/i18n": "^1.0.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0"
   }
 }
