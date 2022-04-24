@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/js-pack/i18n-react/compare/v1.0.0...v1.0.1) (2022-04-24)
+
+
+### Bug Fixes
+
+* Update react dependency ([ac1d04b](https://github.com/js-pack/i18n-react/commit/ac1d04b1a9580bbbd048cdb4804465d99bbfaa6f))
+
 # 1.0.0 (2022-03-15)
 
 
